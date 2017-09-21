@@ -25,7 +25,9 @@ webgis webgl d3 mapbox leaflet opengl mapV echarts three.js d3 cesium openlayers
 
 [Uber](http://uber.github.io/deck.gl/#/)
 
-[Maptalks](http://www.maptalks.org/)
+[Maptalks.org](http://www.maptalks.org/)
+
+[Maptalks - github](https://github.com/maptalks)
 
 [D3](https://d3js.org/)
 
