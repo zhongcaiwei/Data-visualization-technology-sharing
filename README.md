@@ -45,7 +45,7 @@ webgis webgl d3 mapbox webgl leaflet opengl mapV echarts three.js d3 cesium open
 
 [北大可视分析](http://vis.pku.edu.cn/wiki/)、[教授：袁晓如](http://vis.pku.edu.cn/yuanxiaoru/)
 
-[浙江大学可视分析小组博客](http://www.cad.zju.edu.cn/home/vagblog/) [教授：陈为](http://www.cad.zju.edu.cn/home/chenwei/index_cn.html)
+[浙江大学可视分析小组博客](http://www.cad.zju.edu.cn/home/vagblog/)、 [教授：陈为](http://www.cad.zju.edu.cn/home/chenwei/index_cn.html)
 
 ### 三、国外数据可视化实验室（牛逼的）
 
