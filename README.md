@@ -1,5 +1,5 @@
 # Data-visualization-technology-sharing
-webgis webgl d3 mapbox webgl leaflet opengl mapV echarts three.js d3 cesium openlayers
+webgis webgl d3 mapbox leaflet opengl mapV echarts three.js d3 cesium openlayers
 
 ### 一、数据可视化企业（部分）
 
