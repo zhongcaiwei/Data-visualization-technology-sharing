@@ -9,7 +9,7 @@ webgis webgl d3 mapbox webgl leaflet opengl mapV echarts three.js d3 cesium open
 
 [DataV数据可视化-阿里云](https://data.aliyun.com/visual/datav?spm=5176.8142029.388261.549.OdJONk)
 
-[Embedding Projector - Google高维数据可视化](http://projector.tensorflow.org/)
+[卡巴斯基](https://2050.earth/)
 
 [Skyline](http://www.skylineglobe.cn/)
 
