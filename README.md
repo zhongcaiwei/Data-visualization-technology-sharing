@@ -56,3 +56,5 @@ webgis webgl d3 mapbox leaflet opengl mapV echarts three.js d3 cesium openlayers
 [麻省理工大学虚拟现实实验室](http://senseable.mit.edu/)
 
 [哈佛大学数据可视化案例](http://globe.cid.harvard.edu/?mode=productspace3D&id=PT)
+
+[华盛顿大学数据交互实验室](http://idl.cs.washington.edu/)
