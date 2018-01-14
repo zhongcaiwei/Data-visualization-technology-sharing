@@ -47,6 +47,8 @@ webgis webgl d3 mapbox leaflet opengl mapV echarts three.js d3 cesium openlayers
 
 [Embedding Projector - Google高维数据可视化](http://projector.tensorflow.org/)
 
+[G2 (The Grammar of Graphics)](https://github.com/antvis/g2)
+
 ### 三、国内数据可视化实验室（牛逼的）
 
 [北大可视分析](http://vis.pku.edu.cn/wiki/)、[教授：袁晓如](http://vis.pku.edu.cn/yuanxiaoru/)
