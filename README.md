@@ -55,7 +55,7 @@ webgis webgl d3 mapbox leaflet opengl mapV echarts three.js d3 cesium openlayers
 
 [北大可视分析](http://vis.pku.edu.cn/wiki/)、[教授：袁晓如](http://vis.pku.edu.cn/yuanxiaoru/)
 
-[浙江大学可视分析小组博客](http://www.cad.zju.edu.cn/home/vagblog/)、 [教授：陈为](http://www.cad.zju.edu.cn/home/chenwei/index_cn.html)
+[浙江大学可视分析小组博客](http://www.cad.zju.edu.cn/home/vagblog/)、[Visual Analytics and Intelligence Group of ZJU](https://zjuvag.org/)、 [教授：陈为](http://www.cad.zju.edu.cn/home/chenwei/index_cn.html)
 
 [同济大学-智能大数据可视化实验室](http://idvxlab.com/)
 
